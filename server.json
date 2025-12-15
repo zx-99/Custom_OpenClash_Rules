@@ -1,0 +1,23 @@
+{
+
+    "servers": [
+
+        {
+
+            "name": "SideStore",
+
+            "address": "https://ani.sidestore.io"
+
+        },
+
+        {
+
+            "name": "SelfHost",
+
+            "address": "http://192.168.2.8:6969"
+
+        }
+
+    ]
+
+}
